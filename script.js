@@ -11,12 +11,6 @@ function initMap() {
 		fullscreenControl: true,
 		streetViewControl: true,
 	});
-	
-	const kmlLayer = new google.maps.KmlLayer({
-    		url: "https://raw.githubusercontent.com/adorseyt/adorseyt_GIS_Portfolio/main/Attractions%20-%20Accomodation.kml",
-    		suppressInfoWindows: true,
-   		map: map,
- 	});
 
 	// Name
 	// Latitude, Longitude
