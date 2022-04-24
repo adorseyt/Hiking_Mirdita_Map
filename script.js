@@ -7,9 +7,9 @@ function initMap() {
 		},
 		zoom: 5, //set zoom
 		mapId: 'f80ad993e1c20a93', // map ID
-		mapTypeControl: false,
-		fullscreenControl: false,
-		streetViewControl: false,
+		mapTypeControl: true,
+		fullscreenControl: true,
+		streetViewControl: true,
 	});
 
 	// Name
