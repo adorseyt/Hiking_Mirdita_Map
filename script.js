@@ -5,7 +5,7 @@ function initMap() {
 			lat: 41.80699, // lat long of default
 			lng: 19.98546,
 		},
-		zoom: 18, //set zoom
+		zoom: 5, //set zoom
 		mapId: 'f80ad993e1c20a93', // map ID
 		mapTypeControl: false,
 		fullscreenControl: false,
